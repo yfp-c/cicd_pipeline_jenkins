@@ -2,7 +2,7 @@
 
 ## Description
 
-test CI from github 2
+test CI from github 2 - dev branch
 
 ### comment
 
