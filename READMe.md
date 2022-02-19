@@ -59,3 +59,6 @@ EOF
 --- 
 Tigger deployment job if the merge was successfull
 - Testing webhook in bootcamp test3
+
+## Creating the CI/CD pipeline from scratch.
+
